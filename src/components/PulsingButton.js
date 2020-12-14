@@ -3,12 +3,18 @@ import React from 'react';
 import './PulsingButton.scss'
 
 const PulsingButton = (props) => {
-  const classes = ["PulsingButton", "PulsingButton" + props.styles]
+  let classes = ["PulsingButton", "PulsingButton--" + props.styles]
+  if(props.round) {
+    classes.push('PulsingButton--round')
+  }
+  if(props.animating) {
+    classes.push('PulsingButton--animating')
+  }
 
   return (
-    <div className={classes.join(' ')}>
+    <button className={classes.join(' ')}>
       {props.text}
-    </div>
+    </button>
   )
 }
 
