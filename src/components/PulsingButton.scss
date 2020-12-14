@@ -1,0 +1,19 @@
+.PulsingButton {
+  width: 50px;
+  max-width: 50px;
+  height: auto;
+  background-color: bisque;
+  border: 1px solid black;
+  animation: pulsing 1s infinite;
+
+  &__green {
+    background-color: green;
+  }
+}
+
+@keyframes pulsing {
+  0% {border: 1px solid black}
+  33% {border: 2px solid black}
+  66% {border: 3px solid black}
+  100% {border: 2px solid black}
+}

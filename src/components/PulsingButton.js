@@ -1,9 +1,13 @@
 import React from 'react';
 
-const PulsingButton = (props) => {
-  return (
-    <div>
+import './PulsingButton.scss'
 
+const PulsingButton = (props) => {
+  const classes = ["PulsingButton", "PulsingButton" + props.styles]
+
+  return (
+    <div className={classes.join(' ')}>
+      {props.text}
     </div>
   )
 }
