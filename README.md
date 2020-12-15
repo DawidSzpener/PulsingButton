@@ -2,7 +2,7 @@
 
 ## DEMO 
 
-[demo][https://github.com/DawidSzpener/PulsingButton/blob/main/src/assets/images/demo.gif]
+![demo](https://github.com/DawidSzpener/PulsingButton/blob/main/src/assets/images/demo.gif)
 
 ## INSTALLATION 
 
