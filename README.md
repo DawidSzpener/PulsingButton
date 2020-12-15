@@ -17,19 +17,19 @@ Available props:
 - ```text=""``` displayed text inside the button
 
 - ```round``` gives the button rounded corners
-[demo][https://github.com/DawidSzpener/PulsingButton/blob/main/src/assets/images/round.png]
+![demo](https://github.com/DawidSzpener/PulsingButton/blob/main/src/assets/images/round.png)
 
 - ```animating``` gives button pulsing animation
-[demo][https://github.com/DawidSzpener/PulsingButton/blob/main/src/assets/images/pulsing.gif]
+![demo](https://github.com/DawidSzpener/PulsingButton/blob/main/src/assets/images/pulsing.gif)
 
 - ```styles="red"``` red theme
-[demo][https://github.com/DawidSzpener/PulsingButton/blob/main/src/assets/images/red.png]
+![demo](https://github.com/DawidSzpener/PulsingButton/blob/main/src/assets/images/red.png)
 
 - ```styles="green"``` green theme
-[demo][https://github.com/DawidSzpener/PulsingButton/blob/main/src/assets/images/green.png]
+![demo](https://github.com/DawidSzpener/PulsingButton/blob/main/src/assets/images/green.png)
 
 - ```styles="black"``` black/white theme
-[demo][https://github.com/DawidSzpener/PulsingButton/blob/main/src/assets/images/black.png]
+![demo](https://github.com/DawidSzpener/PulsingButton/blob/main/src/assets/images/black.png)
 
 - ```styles={null}``` default theme
-[demo][https://github.com/DawidSzpener/PulsingButton/blob/main/src/assets/images/default.png]
+![demo](https://github.com/DawidSzpener/PulsingButton/blob/main/src/assets/images/default.png)
