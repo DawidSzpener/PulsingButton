@@ -7,8 +7,8 @@
 ## INSTALLATION 
 
 - clonse this repo
-- extract ```PulsingButton.js``` and ```PulsingButton.scss``` to your own project
-- you need to have sass installed as one of your projects dependency
+- extract ```PulsingButton.js``` and ```PulsingButton.scss``` files to your own project
+- you need to have sass installed as one of your projects dependency ```npm install sass```
 
 ## USAGE
 
