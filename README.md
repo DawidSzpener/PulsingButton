@@ -7,8 +7,10 @@
 ## INSTALLATION 
 
 - clonse this repo
-- extract ```PulsingButton.js``` and ```PulsingButton.scss``` files to your own project
+- extract ```PulsingButton``` folder to your projects directory
+- import ```PulsingButton``` file wherever you want to use it ```import PulsingButton from '*path'```
 - you need to have sass installed as one of your projects dependency ```npm install sass```
+- if using webpack make sure your loader can preprocess scss files
 
 ## USAGE
 
